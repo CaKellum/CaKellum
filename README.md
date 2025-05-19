@@ -1,4 +1,2 @@
-- Hi, I’m [Chris](christopherk379@gmail.com)
-- I’m interested in Full Stack web and application development & game development.
-- I’m currently learning springboot and react.
-- christopherk379@gmail.com
+- Hi, I’m Chris
+- I am developing things for the love of programming, simply being able to use my mind & keyboard to solve my problems brings me the most joy
